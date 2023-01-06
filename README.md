@@ -3,4 +3,4 @@ Scan the internet for minecraft servers.
 
 ### Dependencies:
 - [masscan](https://github.com/robertdavidgraham/masscan)
-- mcstatus `pip install mcstatus`
+- [mcstatus](https://github.com/py-mine/mcstatus) `pip install mcstatus`
